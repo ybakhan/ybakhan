@@ -5,7 +5,7 @@ __  _____   __________ __________     __ __ __  _____    _   __
  / / ___ |___/ /__/ / /___/ _, _/  / /| |/ __  / ___ |/ /|  /  
 /_/_/  |_/____/____/_____/_/ |_|  /_/ |_/_/ /_/_/  |_/_/ |_/   
 
-  Senior Software Engineer  ·  12 Years  ·  Ottawa, Canada
+  Senior Software Engineer  ·  Ottawa, Canada
 ```
 
 ```bash
