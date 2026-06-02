@@ -105,7 +105,8 @@ $ cat education.txt
 $ cat contact.txt
 ```
 ```
-  email   │  ybakhan@gmail.com
-  github  │  github.com/ybakhan
-  loc     │  Ottawa, Canada
+  email    │  ybakhan@gmail.com
+  github   │  github.com/ybakhan
+  linkedin │  linkedin.com/in/yasser-k-39128715
+  loc      │  Ottawa, Canada
 ```
