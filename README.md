@@ -12,6 +12,7 @@ __  _____   __________ __________     __ __ __  _____    _   __
 $ whoami
 ```
 ```
+  experience/
   ├─ 12 years across AI-driven Analytics, E-commerce & Multimedia Comms
   ├─ Expert in Go, Kubernetes & AWS — RESTful APIs and event-driven systems
   ├─ Deploying and scaling self-hosted LLMs and Agentic AI in production
