@@ -5,14 +5,13 @@ __  _____   __________ __________     __ __ __  _____    _   __
  / / ___ |___/ /__/ / /___/ _, _/  / /| |/ __  / ___ |/ /|  /  
 /_/_/  |_/____/____/_____/_/ |_|  /_/ |_/_/ /_/_/  |_/_/ |_/   
 
-  Senior Software Engineer  ·  Ottawa, Canada
+  Senior Software Engineer  ·  Ottawa, Canada 🇨🇦
 ```
 
 ```bash
 $ whoami
 ```
 ```
-  Yasser Khan — Senior Software Engineer · Ottawa, Canada 🇨🇦
   ├─ 12 years across AI-driven Analytics, E-commerce & Multimedia Comms
   ├─ Expert in Go, Kubernetes & AWS — RESTful APIs and event-driven systems
   ├─ Deploying and scaling self-hosted LLMs and Agentic AI in production
