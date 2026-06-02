@@ -1,8 +1,12 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+%7C+12+Years;Go+%7C+Python+%7C+Java+%7C+AI%2FML;LLM+Systems+%7C+Kubernetes+%7C+AWS;Ottawa%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
-</div>
+```
+__  _____   __________ __________     __ __ __  _____    _   __
+\ \/ /   | / ___/ ___// ____/ __ \   / //_// / / /   |  / | / /
+ \  / /| | \__ \\__ \/ __/ / /_/ /  / ,<  / /_/ / /| | /  |/ / 
+ / / ___ |___/ /__/ / /___/ _, _/  / /| |/ __  / ___ |/ /|  /  
+/_/_/  |_/____/____/_____/_/ |_|  /_/ |_/_/ /_/_/  |_/_/ |_/   
 
-<br/>
+  Senior Software Engineer  ·  12 Years  ·  Ottawa, Canada
+```
 
 ```bash
 $ whoami
